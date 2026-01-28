@@ -2,7 +2,7 @@
     height: 400px;
     padding: 24px;
     border-radius: 8px;
-    background-image: url('../../assetssaldo-bg1.png'), url('../../assetssaldo-bg2.png');
+    background-image: url('../../assets/aldo-bg1.png'), url('../../assets/aldo-bg2.png');
     background-position: bottom left, top right;
     background-repeat: no-repeat;
     background-color: var(--cor-secundaria);
