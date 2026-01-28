@@ -12,7 +12,6 @@ O objetivo principal desta aplicação é proporcionar uma experiência prática
 
 - Contas Bancárias: A aplicação simula um sistema bancário com operações básicas como criar novas transações, sendo 'Depósito', 'Transferência' e 'Pagamento de Boleto', além da possibilidade de consultar saldo e transações feitas anteriormente.
 
-
 ## Instruções de Uso
 
 1. Faça o clone ou o download do repositório.
